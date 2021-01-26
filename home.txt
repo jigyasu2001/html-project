@@ -1,0 +1,28 @@
+
+
+
+<html>
+<head>
+<title>Other Family Members</title>
+<link rel="stylesheet" type="text/css" href="css.css" />
+</head>
+<body style="font-family:lucida sans;background:#FF8C00;">
+
+    <ul>
+          <li><a href="Myself.html">Myself</a></li>
+         
+          
+    </ul>
+	  	<h2><u>Other Family Members</u></h2>
+		<ul>
+          
+    </ul>
+	<table>
+		<tr>
+		<td><img src="image/logo.png"></img></td>
+		<td>My family live in Sirohi City. 
+</td>
+		</tr>
+		</table>
+</body>
+</html>
